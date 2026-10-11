@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Shubham82727
+- 👋 Hi, I’m @Shubham Swami
 - 👀 I’m interested in ...Gaming
 - 🌱 I’m currently learning ...Coding
 - 💞️ I’m looking to collaborate on ...Google,Microsoft
 - 📫 How to reach me ...Nohar,Rajasthan
-- 😄 Pronouns: ...Shubham
+- 😄 Pronouns: ...Shubh
 - ⚡ Fun fact: ...I am A content creator
 
 <!---
